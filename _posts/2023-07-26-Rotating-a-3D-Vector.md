@@ -10,18 +10,18 @@ While using this system does work, it has a few caveats.
 ### Problems with Euler angles
 Here are some problems with using Euler angles to rotate 3D vectors.
 
-1. Slow computational speed
+#### Slow computational speed
 
 By definition, an Euler angle notation has three axes to rotate around.
 This also means the computer needs to to 3 sequential computations to rotate a vector.
 Although the computations don't involve sqaure roots, this is still slower compared to other methods.
 
-2. Gimbal lock
+#### Gimbal lock
 
 [Gimbal lock](https://en.wikipedia.org/wiki/Gimbal_lock) is a phenomenon where many developers give up on Euler angles.
 Wikipedia does a much better job of explaining it, so I won't even try.
 
-3. Ambiguity
+#### Ambiguity
 
 This may not even seem like a problem at first,
 but when you'll probably lose all faith in Euler angles once you here the argument.
