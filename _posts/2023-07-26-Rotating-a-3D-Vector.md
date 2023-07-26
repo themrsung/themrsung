@@ -24,7 +24,7 @@ Wikipedia does a much better job of explaining it, so I won't even try.
 #### Ambiguity
 
 This may not even seem like a problem at first,
-but when you'll probably lose all faith in Euler angles once you hear the argument.
+but you'll probably lose all faith in Euler angles once you hear the argument.
 
 First of all, what does 45 degrees towards positive yaw mean?
 A physicist would probably say it means a counter-clockwise rotation along the Y axis.
