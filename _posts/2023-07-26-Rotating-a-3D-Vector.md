@@ -97,7 +97,7 @@ Immutability is optional, but I personally do recommend it.
 
         // We can use the magnitude to check if the vector was properly rotated
         public double getMagnitude() {
-            return Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2) + Math.pos(z, 2));
+            return Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2) + Math.pow(z, 2));
         }
 
         public Vector add(Vector v) {
