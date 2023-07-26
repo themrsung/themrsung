@@ -29,7 +29,7 @@ but you'll probably lose all faith in Euler angles once you hear the argument.
 First of all, what does 45 degrees towards positive yaw mean?
 A physicist would probably say it means a counter-clockwise rotation along the Y axis.
 A gamer might say it means a clockwise rotation along the Y axis.
-Someone who has lost their bearings could say it means some rotaion along an arbitrary unit vector.
+Someone who has lost their bearings could say it means some rotation along an arbitrary unit vector.
 
 Now combine all these people and make a team of developers. Time for chaos!
 
