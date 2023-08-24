@@ -1,22 +1,9 @@
 ### Hello
 I go by the name Alejandro. I like building exotic stuff using the most impractical language for the application.
-Game engines in JS? Dare me!
 
 ### Languages
-I'm good at and like:
-- Java
-
-I'm not good at but like:
-- Python
-
-I hate but still can use:
-- TypeScript
-- JavaScript
-- React
-
-I can use if you pay me to:
-- C++
-- C#
+I mainly use Java, but I am familiar with JS variants such as TypeScript or React,
+plus a little bit Python and C++.
 
 ### Contacts
 - Email: themrsung@gmail.com
