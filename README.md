@@ -1,10 +1,7 @@
-### Hello
-I go by the name Alejandro. I like building exotic stuff using the most impractical language for the application.
+# LXIV
 
-### Languages
-I mainly use Java, but I am familiar with JS variants such as TypeScript or React,
-plus a little bit Python and C++.
+I like ~~boilerplate~~Java.
 
-### Contacts
-- Email: themrsung@gmail.com
-- Discord: themrsung
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
