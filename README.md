@@ -1,7 +1,5 @@
-# LXIV
-
-I like ~~boilerplate~~Java.
-
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Object object = "string";
+        String string = (String) object;
+        System.out.println(string.toString());
     }
