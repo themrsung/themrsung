@@ -1,5 +1,6 @@
     public interface NotClassLol {
         /* public */ static void main(String... notArgsLol) {
-            System.out.println("Hello world!");
+            var println = System::out;
+            println.accept("Hello world!");
         }
     }
