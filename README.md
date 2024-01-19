@@ -17,4 +17,4 @@
         return x + y;
     };
 
-    var me = IntStream.of(x, y).reduce(0, (a, b) -> a + b);
+    var me = (Adder) (x, y) -> IntStream.of(x, y).reduce(0, (a, b) -> a + b);
