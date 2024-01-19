@@ -1,6 +1,4 @@
-    public interface NotClassLol {
-        /* public static */ void main(String... notArgsLol) {
-            var println = System.out::println;
-            println.accept("Hello world!");
-        }
-    }
+int x = 1;
+int y = 2;
+int z = IntStream.of(x, y)
+    .reduce(0, (a, b) -> a + b);
