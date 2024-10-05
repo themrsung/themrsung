@@ -1,20 +1,11 @@
 ### Always code like a gigachad :)
     
-    @FunctionalInterface
-    interface Adder {
-        int compute(int x, int y);
-    }
+    var random = new Random();
 
-    var human = (Adder) (x, y) -> x + y;
-    var programmer = (Adder) (x, y) -> {
-        if ((Integer) x == null || (Integer) y == null) throw new NullPointerException("nope");
-        
-        long lx = x;
-        long ly = y;
-        
-        if (lx + ly > Integer.MAX_VALUE) throw new IllegalArgumentException("nope");
-        
-        return x + y;
-    };
+    var mapper = (DoubleUnaryOperator) x -> x * 10 + 5;
+    var provider = (IntSupplier) () -> (int) Math.round(mapper.applyAsDouble(random.nextDouble()));
+    var function = (IntBinaryOperator) Integer::sum;
 
-    var me = (Adder) (x, y) -> IntStream.of(x, y).reduce(0, (a, b) -> a + b);
+    var result = function.applyAsInt(provider.getAsInt(), provider.getAsInt());
+
+    System.out.println(result);
