@@ -10,6 +10,8 @@
 
     System.out.println(result);
 
-How many instances were created throughout the lifecycle* of this program?
+**Q1** How many instances were created throughout the lifecycle* of this program?
 
 *assuming this program is ran inside a standard main method, and terminates as soon as the last line has finished
+
+**A1** It depends.
