@@ -9,3 +9,7 @@
     var result = function.applyAsInt(provider.getAsInt(), provider.getAsInt());
 
     System.out.println(result);
+
+How many instances were created throughout the lifecycle* of this program?
+
+*assuming this program is ran inside a standard main method, and terminates as soon as the last line has finished
