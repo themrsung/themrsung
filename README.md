@@ -1,17 +1,14 @@
-### Always code like a gigachad :)
+### Help me!!
     
-    var random = new Random();
+    
+    public class Public {
+    	static class Static {
+    		static class Void {
+    			static void Main(String... args) {
+    				Stream.of(args).forEach(System.out::println);
+    			}
+    		}
+    	}
+    }
 
-    var mapper = (DoubleUnaryOperator) x -> x * 10 + 5;
-    var provider = (IntSupplier) () -> (int) Math.round(mapper.applyAsDouble(random.nextGaussian()));
-    var function = (IntBinaryOperator) Integer::sum;
-
-    var result = function.applyAsInt(provider.getAsInt(), provider.getAsInt());
-
-    System.out.println(result);
-
-**Q1** How many instances were created throughout the lifecycle* of this program?
-
-*assuming this program is ran inside a standard main method, and terminates as soon as the last line has finished
-
-**A1** It depends.
+    Public.Static.Void.Main("hi mom", "help me", "is this a coding test?");
