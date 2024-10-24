@@ -1,4 +1,4 @@
-# `21-st Century Contemporary Art.`
+# $twenty-fir_{st}\ Century\ Contemporary\ Art$
 
 Hey! I'm an artist. ***My code is designed to be pretty, not efficient or effective.*** The code I consider to be optimal follows $O(n!)$.
 
