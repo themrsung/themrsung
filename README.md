@@ -1,14 +1,13 @@
-### Help me!!
-    
-    
-    public class Public {
-    	static class Static {
-    		static class Void {
-    			static void Main(String... args) {
-    				Stream.of(args).forEach(System.out::println);
-    			}
-    		}
-    	}
-    }
+# `21-st Century Contemporary Art.`
 
-    Public.Static.Void.Main("hi mom", "help me", "is this a coding test?");
+Hey! I'm an artist. ***My code is designed to be pretty, not efficient or effective.*** The code I consider to be optimal follows $O(n!)$.
+
+Also, I enjoy defining lambdas for trivial tasks, such as summation.
+
+1. $f(n) = \sum^n_{i=1}{\frac{1}{2^n}}$
+2. $g(m) = \lim_{m\to\infty}$
+3. $console.log(g(1));$
+
+Here, I use LaTeX as pseudocode to scare away the weak-minded.
+
+***Hallowed are the Ori***
