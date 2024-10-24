@@ -10,4 +10,8 @@ Also, I enjoy defining lambdas for trivial tasks, such as summation.
 
 Here, I use LaTeX as pseudocode to scare away the weak-minded.
 
-***Hallowed are the Ori***
+### ***Reviews***
+
+> `"State of the art!"`
+> 
+> *[JAXPLE](https://github.com/jaxple/)*
