@@ -1,4 +1,4 @@
-# $twenty-fir_{st}\ Century\ Contemporary\ Art$
+# $21_{st}$ *Century Contemporary Art*
 
 Hey! I'm an artist. ***My code is designed to be pretty, not efficient or effective.*** The code I consider to be optimal follows $O(n!)$.
 
@@ -10,7 +10,12 @@ Also, I enjoy defining lambdas for trivial tasks, such as summation.
 
 Here, I use LaTeX as pseudocode to scare away the weak-minded.
 
+---
+
 ### ***Recommendations***
 
-> $State\ of\ the\ art.$
-> > *[JAXPLE](https://github.com/jaxple/)*
+> ***State of the art.***
+> \- *[JAXPLE](https://github.com/jaxple/)*
+
+> ***The author seems to embrace a playful, artistic approach to coding, valuing elegance and creativity over traditional efficiency and practicality.***
+> \- *[ChatGPT](https://chat.openai.com/)*
