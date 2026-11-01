@@ -1,21 +1,28 @@
-# $21_{st}$ *Century Contemporary Art*
+# Keyboard 『SnOb』
 
-Hey! I'm an artist. ***My code is designed to be pretty, not efficient or effective.*** The code I consider to be optimal follows $O(n!)$.
+i am *crazy* about keyboards！！！
 
-Also, I enjoy defining lambdas for trivial tasks, such as summation.
+## keyboards
 
-1. $f(n) = \sum^n_{i=1}{\frac{1}{2^i}}$
-2. $g(m) = \lim_{m\to\infty}{f(m)}$
-3. $console.log(g(1));$
+i own an inhumane amount of keyboards. i design crazy IMEs. check these out!
 
-Here, I use LaTeX as pseudocode to scare away the weak-minded.
+- [JIS Korean | ABC/가](https://github.com/team-mirae/jis-korean) - Extension of Korean 2-set (KTS)
+- [JIS Moonshot | ABC/가/かな](https://github.com/team-mirae/jis-moonshot) - JIS-only trilingual IME
+- [uim-mobile | ABC/가/かな](https://github.com/team-mirae/uim-mobile) - mobile madness
 
----
+## ゼンかく
 
-### ***Recommendations***
+zenkaku-native programs
 
-> ***State of the art.***
-> \- *[JAXPLE](https://github.com/jaxple/)*
+- [zencode | TUI text editor](https://github.com/team-mirae/zencode) - nano-inspired text editor with natural editing
+- [zenteru | Terminal for macOS](https://github.com/team-mirae/zenteru) - custom terminal
 
-> ***The author seems to embrace a playful, artistic approach to coding, valuing elegance and creativity over traditional efficiency and practicality.***
-> \- *[ChatGPT](https://chat.openai.com/)*
+## docs
+
+documentation-only repos
+
+- [keyboard-troubleshooting](https://github.com/themrsung/keyboard-troubleshooting) - point your AI agent here for keyboard issues
+
+## contacting me
+
+email: `themrsung@gmail.com`
