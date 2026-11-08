@@ -6,6 +6,7 @@ i am *crazy* about keyboards！！！
 
 i own an inhumane amount of keyboards. i design crazy IMEs. check these out!
 
+- [bada ime | universal](https://github.com/team-mirae/bada-ime) - macOS IME for any language
 - [JIS Korean | ABC/가](https://github.com/team-mirae/jis-korean) - Extension of Korean 2-set (KTS)
 - [JIS Moonshot | ABC/가/かな](https://github.com/team-mirae/jis-moonshot) - JIS-only trilingual IME
 - [uim-mobile | ABC/가/かな](https://github.com/team-mirae/uim-mobile) - mobile madness
